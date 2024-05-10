@@ -31,7 +31,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
 - Live Site URL: [https://jarher.github.io/3ColumnsPreviewCardComponent/]
 
 ## My process
